@@ -28,6 +28,12 @@ router.get('/', function (req, res) {
         res.status(200).send(request);
     });
 });
+router.get("/blood_group",function (req, res) {
+    res.sendFile(process.cwd() + "/json/blgr.json");
+});
+router.get("/blood_bank",function (req, res) {
+    res.sendFile(process.cwd() + "/json/bloodbank.json");
+});
 
 // GETS A SINGLE request FROM THE DATABASE
 router.get('/:id', function (req, res) {
