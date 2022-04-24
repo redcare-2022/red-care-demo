@@ -1,0 +1,175 @@
+{
+    "Ahmedabad": [
+        {
+          "id": 1,
+          "name": "Sheth L.G. General Hospital and Blood Bank",
+          "address": "Sheth L.G. General Hospital, Maninagar",
+          "code": "380008",
+          "city": "Ahmedabad",
+          "contact": "079 25461380",
+          "state": "Gujarat",
+          "latitude": 23.002249,
+          "longitude": 72.603611
+        },
+        {
+            "id": 2,
+            "name": "Civil Hospital",
+            "address": "Asarwa",
+            "code": "380016",
+            "city": "Ahmedabad",
+            "contact": "079 22683949",
+            "state": "Gujarat",
+            "latitude": 23.051227,
+            "longitude": 72.605502
+        },
+        {
+            "id": 3,
+            "name": "Indian Red Cross Society Blood Bank",
+            "address": "Ahmedabad District Branch, 18-Gujarat Brahmkshatriya Society, Behind Suvidha Market, Paldi",
+            "code": "380007",
+            "city": "Ahmedabad",
+            "contact": "079 26651833",
+            "state": "Gujarat",
+            "latitude": 23.013008,
+            "longitude": 72.557665
+        },
+        {
+            "id": 4,
+            "name": "Gujarat Cancer Research Institute",
+            "address": "M.P. Shah Cancer Hospital, Civil Hospital Campus",
+            "code": "380016",
+            "city": "Ahmedabad",
+            "contact": "079 22681451",
+            "state": "Gujarat",
+            "latitude": 23.051214,
+            "longitude": 72.607081
+        },
+        {
+            "id": 5,
+            "name": "Smt. G R Doshi and Smt. K M Mehta Institute of Kidney Disease and Research Centre",
+            "address": "Civil Hospital Compound, Asarwa",
+            "code": "380016",
+            "city": "Ahmedabad",
+            "contact": "079 22687164",
+            "state": "Gujarat",
+            "latitude": 23.051229,
+            "longitude": 72.605499
+        }
+    ],
+    "Rajkot": [
+        {
+          "id": 1,
+          "name": "General Hospital",
+          "address": "P.D.U. Hospital, Civil Hospital Campus, Rajkot",
+          "code": "360001",
+          "city": "Rajkot",
+          "contact": "0281 2450385",
+          "state": "Gujarat",
+          "latitude": 22.305228,
+          "longitude": 70.798616
+        },
+        {
+            "id": 2,
+            "name": "Rajkot Voluntary Blood Bank and Research Centre",
+            "address": "Ajay Mansion, Malaviya Road, Rajkot",
+            "code": "360002",
+            "city": "Rajkot",
+            "contact": "0281 2234242",
+            "state": "Gujarat",
+            "latitude": 22.286976,
+            "longitude": 70.8003
+        },
+        {
+            "id": 3,
+            "name": "Smt.S.C. Patel Field Marshal Blood Bank",
+            "address": "104, Rajeshwari Commercial Complex, Opp. Ramkrishna Ashram, Dr.Yagnik Road. Rajkot",
+            "code": "360002",
+            "city": "Rajkot",
+            "contact": "0281 2480043",
+            "state": "Gujarat",
+            "latitude": 22.283335,
+            "longitude": 70.799999
+        }
+    ],
+    "Surat": [
+        {
+          "id": 1,
+          "name": "New Civil Hospital",
+          "address": "Majur Gate Hospital, Surat",
+          "code": "395003",
+          "city": "Surat",
+          "contact": "0261 2230909",
+          "state": "Gujarat",
+          "latitude": 21.180272,
+          "longitude": 72.82112
+        },
+        {
+            "id": 2,
+            "name": "Surat Raktdan Kendra and Research Centre , Regional Blood Transfusion CentreKhatodara health Centre",
+            "address": "F.P.No.127,T.P.No.1,Udhana Majura, Hanuman Industrial Estate, Khatodara, Surat",
+            "code": "394210",
+            "city": "Surat",
+            "contact": "0261 2630114",
+            "state": "Gujarat",
+            "latitude": 21.175813,
+            "longitude": 72.831075
+        },
+        {
+            "id": 3,
+            "name": "Loksamarpan Trust, Blood Bank",
+            "address": "Block 678,Shri Krupa Society,Varachha Road, Surat",
+            "code": "395006",
+            "city": "Surat",
+            "contact": "0261 2553020",
+            "state": "Gujarat",
+            "latitude": 21.219715,
+            "longitude": 72.91062
+        },
+        {
+            "id": 4,
+            "name": "Aminaben Gangat and Aheshaben Patel Blood Bank",
+            "address": "Surat Healthcare Foundation C/o Lokhat Hospital Rampura, Surat",
+            "code": "395003",
+            "city": "Surat",
+            "contact": "0261 2401362",
+            "state": "Gujarat",
+            "latitude": 21.195001,
+            "longitude": 72.819443
+        }
+    ],
+    "Vadodara": [
+        {
+            "id": 1,
+            "name": "Indu Voluntary Blood BankManage Indu Health Research Foundation Trust",
+            "address": "Vinraj Plaza, Third Floor, Opp:-Government Press Kothi, Vadodara",
+            "code": "390001",
+            "city": "Vadodara",
+            "contact": "0265 2437676",
+            "state": "Gujarat",
+            "latitude": 22.304461,
+            "longitude": 73.193485
+        },
+        {
+            "id": 2,
+            "name": "Kailash Cancer Hospital and Research Centre",
+            "address": "Muni. Seva Ashram, Goraj, Vadodara",
+            "code": "390025",
+            "city": "Vadodara",
+            "contact": "0265 3961300",
+            "state": "Gujarat",
+            "latitude": 22.33463,
+            "longitude": 73.464163
+        },
+        {
+            "id": 3,
+            "name": "S.S.G.Hospital",
+            "address": "The Government Medical College and S.S.G. Hospital, Vadodara",
+            "code": "390001",
+            "city": "Vadodara",
+            "contact": "0265 2424848",
+            "state": "Gujarat",
+            "latitude": 22.307279,
+            "longitude": 73.190028
+        }
+    ]
+  }
